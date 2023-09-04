@@ -45,3 +45,6 @@ my_trackbar/
 ## Important Notes
 
 - Ensure that the ROS master is running before using this package.
+
+## Lisence
+- sbeen1840
